@@ -100,10 +100,10 @@ Restaurant Chains Chart
 Interactive Restaurant Locations Map
 
 
-                                                                                                                             Author,
+                                           Author,
 
-                                                                                                                            Madhan S.
+                                          Madhan S.
 
-                                                                                                                 Data Analysis Internship Project.
+                               Data Analysis Internship Project.
 
-                                                                                                                      Cognifyz Technologies.
+                                     Cognifyz Technologies.
